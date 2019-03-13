@@ -1,5 +1,5 @@
 # ReadMeDemo
-Example for making a good readme
+Example for adding screenshots and whatnot to a README
 
 <h2>Screenshots</h2>
 
