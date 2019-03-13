@@ -3,7 +3,7 @@ Example for making a good readme
 
 <h2>Screenshots</h2>
 
-<p>**Images must be in the repo files**</p>
+**Images must be in the repo files**
 
 
 With a relative URL:
